@@ -17,6 +17,7 @@
 * npm install && npm run dev
 * php artisan db:seed --class=SeederTablaPermisos
 * php artisan db:seed --class=SeederTablaTags
+* Super Admin Account: admin@gmail.com
 
 ## License
 
